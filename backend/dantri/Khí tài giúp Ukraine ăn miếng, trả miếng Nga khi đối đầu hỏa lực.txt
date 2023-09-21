@@ -1,0 +1,18 @@
+img: ../frontend/public/images/67764e037c297e81-1692527549393.jpeg
+Title: Khí tài giúp Ukraine "ăn miếng, trả miếng" Nga khi đối đầu hỏa lực
+Time: Chủ nhật, 20/08/2023 - 17:57
+summary: (Dân trí) - Ukraine sử dụng hệ thống dữ liệu chiến thuật pháo binh do Mỹ viện trợ để đáp trả trước sự áp đảo của Nga về hỏa lực.
+Hệ thống IFATDS có thể tích hợp với nhiều hệ thống hỏa lực khác nhau, bao gồm HIMARS (Ảnh: Defense Express).
+Theo Defense Express, lực lượng vũ trang Ukraine đã nhận được 18 hệ thống dữ liệu chiến thuật pháo binh dã chiến quốc tế (IFATDS) - thiết bị điều khiển hỏa lực pháo binh tự động - do Mỹ viện trợ. Hệ thống IFATDS đầu tiên đến Ukraine vào tháng 12 năm ngoái.
+Theo phía Ukraine, các hệ thống hiện đại này đã giúp Kiev tác chiến hiệu quả trong các trận đối đầu hỏa lực với Nga, khi Moscow áp đảo về nguồn lực đạn dược và vũ khí.
+Kể từ khi gia nhập lực lượng Ukraine, IFTADS giúp Kiev điều phối hỏa lực hiệu quả và cải thiện khả năng phản pháo để phá hủy các tổ hợp vũ khí của Nga khi bị đối phương tấn công.
+Một ví dụ được Defense Express đưa ra là trong một trận đối đầu hỏa lực, UAV của Ukraine đã phát hiện ra 4 tổ hợp pháo tự hành Msta-S của Nga trên tiền tuyến và gửi dữ liệu về IFATDS.
+Từ đây, thông tin được xử lý và chuyển thẳng tới tổ hợp HIMARS trong khu vực trong thời gian rất ngắn. HIMARS phóng ra đạn dẫn đường chính xác dựa theo tọa độ mà IFATDS đã tính toán khiến các hệ thống của Nga bị phá hủy hoặc hư hại.
+Trong tác chiến hiện đại, việc có thể phản pháo nhanh chóng là yếu tố cốt lõi có thể gây thiệt hại lớn cho hỏa lực đối thủ.
+IFTADS thực chất là một máy tính siêu bền được tích hợp phần mềm. Hệ thống này được thiết kế để tích hợp và vận hành với thông tin từ nhiều nguồn khác nhau nhằm tạo ra một bức tranh tổng thể về hoạt động hỗ trợ hỏa lực trên chiến trường.
+Đây là một mạng gồm các thiết bị xử lý và trao đổi thông tin. Hệ thống này sẽ chuyển dữ liệu từ người quan sát phía trước đến đơn vị hỗ trợ hỏa lực. Trên chiến trường, các hệ thống điều khiển hỏa lực pháo binh tự động giúp cho các quân nhân lập kế hoạch tác chiến, thực thi hoạt động tấn công đối thủ.
+Nó cũng được xem sẽ giúp tạo ra cái nhìn tổng quan về tình hình hỏa lực để các đơn vị chiến đấu có thể nắm được, giúp hoạt động hiệp đồng tác chiến hiệu quả hơn.
+Điểm đặc biệt là IFATDS gồm một mạng máy tính xử lý quá trình trao đổi dữ liệu nhằm bảo vệ khỏi nguy cơ bị hệ thống tác chiến điện tử Nga gây nhiễu.
+IFATDS hợp nhất tất cả thông tin từ các nguồn nhằm cung cấp cho các đơn vị pháo binh dữ liệu một nhanh nhất có thể từ radar phản pháo, UAV, thiết bị tình báo vệ tinh và điện tử, các đơn vị được triển khai ở tiền tuyến…
+IFTADS có thể giúp kiểm soát hỏa lực trên hàng loạt vũ khí như súng cối, pháo dã chiến, rocket và tên lửa như pháo tự hành PzH 2000 và CAESAR, hệ thống tên lửa M142 HIMARS và M270...
+Khí tài này có khả năng tương tác và tích hợp với hơn 80 hệ thống khác nhau để thực hiện từ nhiệm vụ chỉ huy và kiểm soát cho tới hỗ trợ hỏa lực. Theo Defense Express, trong nhiều trận đánh, IFTADS được xem là đứng sau thành công của HIMARS khi tổ hợp này phá hủy thiết bị, vũ khí của Nga.

@@ -1,0 +1,14 @@
+Title: Áp thấp nhiệt đới gần Biển Đông đã mạnh lên thành bão Saola
+Time: Thứ sáu, 25/08/2023 - 16:43
+summary: (Dân trí) - Một cơn áp thấp nhiệt đới gần Biển Đông ở phía Đông Bắc đảo Luzon (Philippines) đã mạnh lên thành bão (tên quốc tế Saola).
+noteImg: Ảnh mây vệ tinh cơn bão Saola (Ảnh: NCHMF).
+Ngày 25/8, Trung tâm Dự báo Khí tượng Thủy văn Quốc gia cho biết áp thấp nhiệt đới vùng biển phía đông bắc đảo Luzon (Philippines) đã mạnh lên thành bão (bão Saola).
+Dự báo bão Saola có đường đi phức tạp, Trung tâm Dự báo Khí tượng Thủy văn Quốc gia đang theo dõi chặt cơn bão này.
+Theo dự báo của Cơ quan khí tượng Nhật Bản (JMA) lúc 9h sáng 25/8, tâm bão Saola đang ở 19,7 độ vĩ bắc, 124 độ kinh đông, sức gió mạnh nhất vùng gần tâm bão mạnh 25m/s (tương đương cấp 10), giật 35m/s (cấp 12).
+JMA dự báo trong 24 giờ tới bão Saola di chuyển chậm theo hướng nam tây nam, cường độ tiếp tục mạnh lên cấp 12 (35m/s), giật cấp 15 (50m/s).
+Những ngày tiếp theo, bão Saola tiếp tục di chuyển xuống phía nam rồi đổi hướng đi ra phía đông, sau đó bão đi lên phía bắc. 
+Cường độ có khả năng mạnh thêm, sức gió mạnh nhất vùng gần tâm bão có thể đạt 50m/s (cấp 15), giật 70m/s (trên cấp 17).
+Còn đài Hong Kong nhận định bão Saola đang mạnh cấp 10 (90km/h). Đài Hong Kong cũng có nhận định tương tự JMA về hướng di chuyển và cường độ liên tục mạnh lên trong những ngày tới. Cường độ bão Saola có thể đạt cấp siêu bão mạnh cấp 16 (185km/h).
+"Nếu bão Saola không di chuyển vào Biển Đông thì tháng 8/2023 là năm không xuất hiện cơn bão, áp thấp nhiệt đới nào trên Biển Đông. Trong 30 năm qua chỉ có năm 2011 và năm 2015 là hai năm mà không có bão, áp thấp nhiệt đới trong tháng 8.
+Điều này cũng phản ánh tác động của năm EL Nino khiến bão, áp thấp nhiệt đới xuất hiện ít hơn bình thường", Trung tâm Dự báo Khí tượng Thủy văn Quốc gia thông tin thêm.
+img: ../frontend/public/images/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 1124 664'%3E%3Crect x='0' y='0' width='100%' height='100%' style='fill:rgb(241, 245, 249)' %2F%3E%3C%2Fsvg%3E

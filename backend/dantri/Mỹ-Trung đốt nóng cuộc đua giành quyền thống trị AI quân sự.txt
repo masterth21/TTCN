@@ -1,0 +1,35 @@
+img: ../frontend/public/images/uavmytrung7-1692502295719.jpeg
+Title: Mỹ-Trung "đốt nóng" cuộc đua giành quyền thống trị AI quân sự
+Time: Chủ nhật, 20/08/2023 - 17:39
+summary: (Dân trí) - Cuộc chiến thử nghiệm bầy đàn máy bay không người lái (UAV) hiện đại với công nghệ trí tuệ nhân tạo (AI) đang đẩy hai ông lớn Mỹ và Trung Quốc vào vòng xoáy cạnh tranh mới và ngày càng "nóng" hơn.
+Mỹ đã tổ chức một cuộc tập trận chung với Anh và Australia, sử dụng UAV có hỗ trợ AI (Ảnh: Bộ Quốc phòng Anh).
+Theo các nguồn báo cáo, cả Washington và Bắc Kinh đang đẩy nhanh nghiên cứu về cách tích hợp AI vào các hoạt động quân đội của họ như một phần của cuộc chạy đua toàn cầu nhằm tận dụng lợi thế của công nghệ đang phát triển nhanh chóng này.
+Trong số các ưu tiên của cả hai bên có vũ khí đủ khả năng tự tìm đường đến mục tiêu mà không cần sự trợ giúp của con người và công cụ AI để xác định mục tiêu từ hình ảnh vệ tinh.
+Trong một thử nghiệm gần đây của Đại học Công nghệ Quốc phòng Trung Quốc, một "bầy đàn" gồm hàng chục UAV đã vượt qua các tín hiệu gây nhiễu giả định bằng cách hỗ trợ lẫn nhau. Sau đó, không cần sự trợ giúp của người điều khiển, chúng đã tìm thấy và tiêu diệt một mục tiêu bằng đạn lảng vảng quanh đó, truyền thông nhà nước cho biết.
+Mỹ đã tổ chức một cuộc tập trận chung với Anh và Australia vào tháng 4 nhằm sử dụng UAV được hỗ trợ AI trong một nhóm để theo dõi và mô phỏng các cuộc tấn công nhắm vào các phương tiện mặt đất như xe tăng, pháo tự hành và xe bọc thép.
+Trong cuộc tập trận, các lực lượng cho biết họ đã định hướng lại UAV khi đang bay bằng cách truyền các tham số cập nhật cho các chương trình nhắm mục tiêu AI.
+Đầu năm nay, Cơ quan Dự án Nghiên cứu Tiên tiến Quốc phòng, chuyên điều phối nghiên cứu về các công nghệ mới nổi cho quân đội Mỹ, đã mở ra cơ hội cho một dự án "bầy đàn", có khả năng kết hợp các bầy đàn UAV dựa trên AI trên không, trên bộ và trên biển.
+Một nghiên cứu gần đây về hàng trăm hồ sơ mua sắm quân sự liên quan đến AI của Trung tâm An ninh và Công nghệ Mới nổi tại Đại học Georgetown ở thủ đô Washington cho thấy, khoảng 1/3 trong số các hợp đồng ở Mỹ và Trung Quốc có thời hạn 8 tháng trong năm 2020 là dành cho xe thông minh và tự lái, chiếm thị phần lớn nhất ở cả hai quốc gia.
+Ukraine đã sử dụng UAV với một số khả năng tự hành để chống lại các lực lượng Nga, mở ra một trong những cơ sở thử nghiệm trong thế giới thực đầu tiên của công nghệ UAV do AI điều khiển.
+Chuyên gia Margarita Konaev, phó Giám đốc phân tích tại Trung tâm An ninh và Công nghệ mới nổi cho biết, quân đội Mỹ nói riêng đang học được rất nhiều điều về giá trị của những công nghệ này trên chiến trường từ cuộc xung đột ở Ukraine.
+Nghiên cứu của nhóm Konaev cho thấy, các công cụ AI dành cho tình báo, giám sát và trinh sát chiếm tỷ trọng lớn thứ hai trong các hợp đồng mua sắm ở cả hai quốc gia.
+Trong đó bao gồm việc sử dụng AI trong việc phân tích hình ảnh vệ tinh để tìm các mục tiêu tiềm năng. Theo các ước tính, Mỹ và Trung Quốc mỗi bên đang chi hàng tỷ USD cho nghiên cứu và phát triển AI quân sự.
+Mỹ, Anh và Australia cho biết họ đã định hướng lại UAV khi đang bay bằng cách truyền các tham số cập nhật nhắm mục tiêu bằng AI (Ảnh: Bộ Quốc phòng Anh).
+Nhiều loại vũ khí và công cụ này vẫn còn ở giai đoạn sơ khai. Nghiên cứu về xe tự lái đã có từ nhiều thập kỷ trước và đầy rẫy những khởi đầu sai lầm và những dự án không thành công mặc dù được kỳ vọng rất cao.
+Năm 2004, Cơ quan Quản lý các dự án nghiên cứu cao cấp Bộ Quốc phòng Mỹ (DARPA) đã tổ chức cuộc thi đầu tiên dành cho xe tự lái mang tên Grand Challenge.
+Đây là một cuộc thi dành cho các thí sinh thuộc khu vực tư nhân cho những thiết kế xe không người lái đi gần 25km trên sa mạc Mojave. Nhưng không có chiếc nào trong số 15 chiếc xe tự lái tham gia hoàn thành cuộc thi.
+Dù thất bại nhưng cuộc thi này đã trở thành động lực cho ngành sản xuất xe tự lái trên toàn thế giới. Kể từ đó đến nay, các hãng sản xuất xe hơi và công ty công nghệ đều chạy đua để thực hiện ước mơ giới thiệu dòng xe tự lái ra thị trường.
+"Đó là một con đường dài và phức tạp từ đổi mới đến áp dụng và sử dụng trên quy mô lớn", chuyên gia Konaev nói.
+Nhưng những đột phá gần đây về AI đã làm tăng kỳ vọng cho các ứng dụng quân sự nhưng dẫn đến lo ngại rằng, Mỹ có thể tụt hậu so với Trung Quốc.
+Tại một phiên điều trần vào tháng 7 về AI trên chiến trường do một tiểu ban của Ủy ban Quân vụ Hạ viện Mỹ tổ chức, Chủ tịch tiểu ban, nghị sĩ Mike Gallagher cho biết, nếu Trung Quốc thắng "phần AI của cuộc thi này, đó sẽ là mối nguy hiểm lớn".
+Vào năm 2021, các ấn phẩm quân sự của Trung Quốc cho thấy các quan chức đang thảo luận về cách tiếp cận chiến tranh kết hợp những tiến bộ về dữ liệu lớn và AI để giúp xác định các lỗ hổng của Mỹ, sau đó sử dụng tất cả các nhánh của quân đội để tiến hành các cuộc tấn công chính xác.
+Bộ Quốc phòng Trung Quốc đã không có bình luận gì về vấn đề này. Trong một bài phát biểu trước Đại hội toàn quốc lần thứ 20 của đảng Cộng sản vào năm 2022, Chủ tịch Tập Cận Bình nhấn mạnh, Trung Quốc sẽ "tăng tốc phát triển các khả năng chiến đấu thông minh, không người lái".
+Lầu Năm Góc đầu tháng này đã thành lập một nhóm để xem xét việc sử dụng các công cụ AI tổng quát, chẳng hạn như các mô hình ngôn ngữ lớn.
+Lo ngại leo thang căng thẳng quân sự
+Triển vọng về vũ khí do AI điều khiển đã tạo ra mối lo ngại về sự leo thang căng thẳng quân sự ngoài ý muốn.
+Vào tháng 2, Hà Lan đã tổ chức một cuộc họp gồm 50 quốc gia, bao gồm cả Mỹ và Trung Quốc để thảo luận về việc sử dụng "có trách nhiệm" công nghệ AI trong lĩnh vực quân sự.
+Những bên tham gia đã đưa ra một Bộ nguyên tắc không ràng buộc vào cuối cuộc họp, bao gồm "tầm quan trọng của việc đảm bảo các biện pháp bảo vệ phù hợp và sự giám sát của con người đối với việc sử dụng các hệ thống AI".
+Các quan chức Mỹ cho biết đã cố gắng lôi kéo Trung Quốc vào các cuộc đàm phán về AI sử dụng trong quân đội bên cạnh các vấn đề khác như rủi ro hạt nhân, nhưng các cuộc thảo luận đã không vượt ra ngoài những cuộc trao đổi ngắn tại các hội nghị quốc tế.
+"Trung Quốc đã thể hiện sự quan tâm đến AI và cũng chứng minh rằng họ đang xem xét hành vi có trách nhiệm trong việc sử dụng AI thực sự có ý nghĩa như thế nào", Mallory Stewart, trợ lý ngoại trưởng phụ trách kiểm soát vũ khí của Mỹ cho biết.
+Trong một động thái nhằm hạn chế một phần tiến bộ quân sự của Bắc Kinh, Mỹ đã thắt chặt các quy định về xuất khẩu chất bán dẫn tiên tiến sang Trung Quốc vào năm ngoái.
+Washington cũng đã xem xét các hạn chế hơn nữa để ngăn chặn việc vận chuyển chip từ Nvidia, nhà thiết kế chip AI hàng đầu và các nhà sản xuất chip khác đến Trung Quốc.
